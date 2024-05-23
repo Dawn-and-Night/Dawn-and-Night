@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=晓夜&fontSize=90&fontAlign=50&fontAlignY=30&desc=且将新火试新茶，诗酒趁年华!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=晓夜&fontSize=90&fontAlign=50&fontAlignY=30&desc=我本将心向明月，奈何明月照沟渠。&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
