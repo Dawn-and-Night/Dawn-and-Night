@@ -1,12 +1,13 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%E6%99%93%E5%A4%9C&fontSize=90&fontAlign=50&fontAlignY=30&desc=%E4%B8%94%E5%B0%86%E6%96%B0%E7%81%AB%E8%AF%95%E6%96%B0%E8%8C%B6%20%E8%AF%97%E9%85%92%E8%B6%81%E5%B9%B4%E5%8D%8E%E3%80%82&descAlign=50&descSize=30&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%E6%99%93%E5%A4%9C&fontSize=90&fontAlign=50&fontAlignY=30&desc=%E4%B8%94%E5%B0%86%E6%96%B0%E7%81%AB%E8%AF%95%E6%96%B0%E8%8C%B6%20%E8%AF%97%E9%85%92%E8%B6%81%E5%B9%B4%E5%8D%8E&descAlign=50&descSize=30&descAlignY=60" />
 </p>
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%E5%86%B2%20%E5%A4%A9%20%E9%A6%99%20%E9%98%B5%20%E9%80%8F%20%E9%95%BF%20%E5%AE%89%3B%E6%BB%A1%20%E5%9F%8E%20%E5%B0%BD%20%E5%B8%A6%20%E9%BB%84%20%E9%87%91%20%E7%94%B2%3B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%E4%B8%94%E5%B0%86%E6%96%B0%E7%81%AB%E8%AF%95%E6%96%B0%E8%8C%B6%20%E8%AF%97%E9%85%92%E8%B6%81%E5%B9%B4%E5%8D%8E;%E4%B8%94%E5%B0%86%E6%96%B0%E7%81%AB%E8%AF%95%E6%96%B0%E8%8C%B6%20%E8%AF%97%E9%85%92%E8%B6%81%E5%B9%B4%E5%8D%8E" />
 </p>
+
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
